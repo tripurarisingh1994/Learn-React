@@ -1,0 +1,9 @@
+.loginContainer {
+    width: 400px;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    background: aliceblue;
+    height: 400px;
+    flex-direction: column;
+}
